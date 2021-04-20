@@ -1,0 +1,15 @@
+.loading_bg {
+    background-color: #f8f6f6;
+    width: 100vw;
+    height: 40vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading_bg h1 {
+    width: 10vw;
+    margin: 0;
+    color: #25b9a1;
+}
